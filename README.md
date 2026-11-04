@@ -90,7 +90,6 @@ Plataformas para mantener contacto, compartir contenido, participar en comunidad
 | Vimeo | Publicación de videos | https://vimeo.com/robermejiadev | Sí |
 | WhatsApp | Mensajería y contacto | `@robermejiadev` | Sí |
 
-**Observación sobre Facebook:** el inventario también contiene una dirección anterior o alternativa: `https://www.facebook.com/AgustinMejiaTrujillo/`, marcada como no personalizable. Se recomienda confirmar cuál debe considerarse el perfil principal.
 
 ## 6. Resumen de personalización
 
